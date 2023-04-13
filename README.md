@@ -10,5 +10,5 @@ The goal is to come up with a modified ResNet18 architecture with the highest te
 
 ## ResNet18 Ver result
 Best Acc is 88 after 25 epoch
-Best Acc is 90 after 50 epoch
+Best Acc is 90 after 35 epoch
 
