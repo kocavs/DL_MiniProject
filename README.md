@@ -12,3 +12,7 @@ The goal is to come up with a modified ResNet18 architecture with the highest te
 * Best Acc is 88 after 25 epoch
 * Best Acc is 90 after 35 epoch
 
+## Model Arichitecture
+
+![](model.gv.png)
+
